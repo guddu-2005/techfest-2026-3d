@@ -1,0 +1,6 @@
+{
+  "name": "Techfest 2026 - Futuristic 3D Tech Festival",
+  "description": "An interactive, scroll-driven 3D web experience for Techfest 2026 featuring Three.js scene morphing, particle starfields, raycasting event cards, interactive timeline, and instant pass generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
